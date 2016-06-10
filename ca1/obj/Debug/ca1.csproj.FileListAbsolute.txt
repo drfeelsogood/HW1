@@ -1,0 +1,6 @@
+D:\projects\Rebuild Nation\ca1\ca1\bin\Debug\ca1.exe.config
+D:\projects\Rebuild Nation\ca1\ca1\obj\Debug\ca1.csprojResolveAssemblyReference.cache
+D:\projects\Rebuild Nation\ca1\ca1\bin\Debug\ca1.exe
+D:\projects\Rebuild Nation\ca1\ca1\bin\Debug\ca1.pdb
+D:\projects\Rebuild Nation\ca1\ca1\obj\Debug\ca1.exe
+D:\projects\Rebuild Nation\ca1\ca1\obj\Debug\ca1.pdb
